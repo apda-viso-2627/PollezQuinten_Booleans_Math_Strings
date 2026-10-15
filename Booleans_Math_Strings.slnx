@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Booleans_Math_Strings/Booleans_Math_Strings.csproj" />
+  <Project Path="cirkelrekenaar/cirkelrekenaar.csproj" />
+  <Project Path="dobbelsteen/dobbelsteen.csproj" />
+  <Project Path="festivalpoort/festivalpoort.csproj" />
+</Solution>
