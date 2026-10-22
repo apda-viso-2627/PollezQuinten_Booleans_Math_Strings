@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="Booleans_Math_Strings/Booleans_Math_Strings.csproj" />
   <Project Path="cirkelrekenaar/cirkelrekenaar.csproj" />
+  <Project Path="De_Wachtswoordsterkte/De_Wachtswoordsterkte.csproj" Id="5f8f5e2c-a878-45a8-b2c8-ad598c994b27" />
   <Project Path="dobbelsteen/dobbelsteen.csproj" />
   <Project Path="festivalpoort/festivalpoort.csproj" />
+  <Project Path="Strings/Strings.csproj" Id="b27ef11f-e893-402c-9c14-724854037e73" />
 </Solution>
