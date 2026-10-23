@@ -3,6 +3,8 @@
   <Project Path="cirkelrekenaar/cirkelrekenaar.csproj" />
   <Project Path="De_Wachtswoordsterkte/De_Wachtswoordsterkte.csproj" Id="5f8f5e2c-a878-45a8-b2c8-ad598c994b27" />
   <Project Path="dobbelsteen/dobbelsteen.csproj" />
+  <Project Path="email_controle/email_controle.csproj" Id="8e9c8d5e-e26f-48ca-8be6-b2a53ce1a228" />
   <Project Path="festivalpoort/festivalpoort.csproj" />
+  <Project Path="Letter_teller/Letter_teller.csproj" Id="098b391c-074f-4d32-b0c5-71516a44e14c" />
   <Project Path="Strings/Strings.csproj" Id="b27ef11f-e893-402c-9c14-724854037e73" />
 </Solution>
